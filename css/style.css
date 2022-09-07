@@ -1,0 +1,73 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.header{
+    width: 100%;
+    height: 35px;
+    background-color: darkblue;
+    font: bold; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#menu{
+    width: 100%;
+    height: 35px;
+    background-color: darkblue;
+}
+.headert{
+    font-weight: 150px;
+    font-size: medium;
+    font-family: sans-serif, serif, Arial;
+    color: white;
+}
+.subtitulo{
+    width: 100px;
+    height: 22px;
+    background-color: green;
+    font-family: sans-serif, serif, arial;
+}
+.destaque1{
+    width: 100%;
+    height: 30px;
+    background-color: darkblue;
+}
+.destaque-p{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+#destaque{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+#destaque2{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.txtb{
+    font-family: serif, sans-serif, arial;
+    color: white;
+}
+.dest3{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+#rodape{
+    width: 50%;
+    height: 30px;
+    background-color: black;
+    color: white;
+    float: left;
+}
+#rodape2{
+    width: 50%;
+    height: 30px;
+    background-color: black;
+    color: white;
+    float: right;
+    text-align: right;
+}
